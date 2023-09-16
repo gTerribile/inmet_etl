@@ -23,7 +23,7 @@ Este projeto de ETL inclui as seguintes funcionalidades principais:
 Para configurar o ambiente de desenvolvimento e execução do projeto, sigas as instruções abaixo:
 
 1. Clone este repositório:
-- git clone https://github.com/*seu-usuario*/inmet-etl.git
+- git clone https://github.com/*seu-usuario*/inmet_etl.git
 
 2. instale as dependências do projeto:
 - pip3 install pandas
